@@ -1,24 +1,22 @@
-
-
 Forked from :
 lucaspiller/docker-freeswitch (https://github.com/lucaspiller/docker-freeswitch)
 
 Since I wasn't building for my ubuntu (14.10) laptop, I re-did the docker file
 also added two scripts :
 build_docker.sh and
-run_docker.sh 
+run_docker.sh
 
 Also, I'm pretty sure the information below also applies.
 
-but I just wanted to setup an quick and dirty enviroment to play around.
+but I just wanted to set up an quick and dirty environment to play around.
 
-you can confiure Sip phones (or soft-clients) using the default conf:
-users: 1000-1009 
+you can configure Sip phones (or soft-clients) using the default conf:
+users: 1000-1009
 pass : 1234
 
 the basic demos are working....
 
-hope its usefulll
+hope its useful
 
 
 
